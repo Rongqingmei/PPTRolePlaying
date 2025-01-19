@@ -13,6 +13,11 @@ https://github.com/Rongqingmei/OpenSourceCompanyFrameWork
 (同时参与战略家rank,战术家rank，战士rank，并取得中位数rank分)  
   
 ## 股权币详细
+当前rank期数(每月一期): 1
 战略家rank已发股权币：0
 战术家rank已发股权币：0
 战士rank已发股权币：0
+
+# 参与项目
+加入QQ群: 1027212119  
+加入QQ群后，申请加入工作与rank。
