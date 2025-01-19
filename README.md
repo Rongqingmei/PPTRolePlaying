@@ -6,9 +6,9 @@
 https://github.com/Rongqingmei/OpenSourceCompanyFrameWork  
   
 # 当前公司阶段
-阶段：创业阶段
-股权币兑现股权规模：50w美元营收
-已发股权币：0
+阶段：创业阶段  
+股权币兑现股权规模：50w美元营收  
+已发股权币：0  
 参与一年预计获取股权币：12  
 (同时参与战略家rank,战术家rank，战士rank，并取得中位数rank分)  
   
